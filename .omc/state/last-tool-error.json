@@ -1,7 +1,0 @@
-{
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"cd polarization-guide && git add -A && git branch -M main && git -c commit.gpgsign=false commit -m \\\"$(cat <<'EOF'\\n편광 인터랙티브 학습 페이지 구현\\n\\n- 파동 분류부터 브루스터 각·쌍극자 복사까지 5개 섹션 본문\\n- 4개 시뮬레이션 위젯을...",
-  "error": "Exit code 1\n/usr/bin/bash: line 13: cd: polarization-guide: No such file or directory",
-  "timestamp": "2026-06-20T08:47:57.949Z",
-  "retry_count": 1
-}
